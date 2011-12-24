@@ -1,1 +1,8 @@
-#fart Yeah whatever.
+.getting-location Getting location...
+:javascript
+  navigator.geolocation.getCurrentPosition(
+    function(position) {
+      window.location.href = 'hunt?lat='
+        + position.coords.latitude + '&long='
+        + position.coords.longitude;
+    });

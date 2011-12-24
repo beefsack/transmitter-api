@@ -4,10 +4,12 @@ require 'json'
 require 'transmitter-data'
 
 disable :protection
-set :haml, :format => :html5, :layout => true
+set :haml, :format => :html5
+@javascripts = []
 
 get '/' do
-  haml :index
+  haml :index, :locals => { :js => ['js/index.js'] },
+    :layout => true
 end
 
 get '/hunt' do

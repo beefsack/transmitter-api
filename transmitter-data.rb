@@ -1,5 +1,6 @@
 require 'transmitter'
 require 'parser/kml'
+require 'yaml'
 
 module TransmitterHunter
   class TransmitterData
