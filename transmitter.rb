@@ -1,6 +1,13 @@
+require 'station'
+require 'forwardable'
+
 module TransmitterHunter
   class Transmitter
-    attr_accessor :lat, :long
+    extend Forwardable
+    include Enumerable
+    def_delegators :@stations, :each, :<<
+    attr_accessor :name, :lat, :long
+    @stations = []
 
     def initialize options = {}
       options.each do |key, value|
