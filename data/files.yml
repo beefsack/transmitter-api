@@ -1,0 +1,25 @@
+files:
+  - region: Australia
+    type: AM Radio
+    filename: au/am.kml
+    filetype: kml
+  - region: Australia Digital Radio
+    type: Digital Radio
+    filename: au/dab.kml
+    filetype: kml
+  - region: Australia
+    type: Digital Television
+    filename: au/dtv.kml
+    filetype: kml
+  - region: Australia
+    type: Digital Television
+    filename: au/fm.kml
+    filetype: kml
+  - region: Australia
+    type: Temporary Broadcast
+    filename: au/tmp.kml
+    filetype: kml
+  - region: Australia
+    type: Analog Television
+    filename: au/tv.kml
+    filetype: kml
