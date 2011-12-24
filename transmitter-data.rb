@@ -1,6 +1,7 @@
 require 'transmitter'
 require 'parser/kml'
 require 'yaml'
+require 'dalli'
 
 module TransmitterHunter
   class TransmitterData
@@ -12,23 +13,33 @@ module TransmitterHunter
 
     private
     def load
-      # Parse files yml
-      data_dir = File.dirname(__FILE__) + '/data'
-      @files = YAML::load(
-        File.open(data_dir + '/files.yml'))
-      # Load files
+      # Check the cache
+      dalli = Dalli::Client.new 'localhost:11211'
+      raw_data = dalli.get 'transmitter-hunter-raw-data'
+      if raw_data.nil?
+        raw_data = []
+        # Parse files yml
+        data_dir = File.dirname(__FILE__) + '/data'
+        @files = YAML::load(
+          File.open(data_dir + '/files.yml'))
+        # Load files
+        @files['files'].each do |file|
+          # Parse
+          case file['filetype']
+          when 'kml'
+            parsed = TransmitterHunter::Parser::Kml::parse(
+              data_dir + '/' + file['filename'])
+          end
+          parsed.each do |data|
+            raw_data << data
+          end
+        end
+        dalli.set 'transmitter-hunter-raw-data', raw_data
+      end
+      # Store locally
       @transmitters = []
-      @files['files'].each do |file|
-        # Parse
-        case file['filetype']
-        when 'kml'
-          parsed = TransmitterHunter::Parser::Kml::parse(
-            data_dir + '/' + file['filename'])
-        end
-        # Store locally
-        parsed.each do |data|
-          @transmitters << TransmitterHunter::Transmitter.new(data)
-        end
+      raw_data.each do |data|
+        @transmitters << TransmitterHunter::Transmitter.new(data)
       end
     end
   end

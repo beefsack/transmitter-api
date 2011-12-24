@@ -2,6 +2,7 @@ require 'rubygems'
 require 'sinatra'
 require 'json'
 require 'transmitter-data'
+require 'haml'
 
 disable :protection
 set :haml, :format => :html5
@@ -15,8 +16,5 @@ end
 get '/hunt' do
   @transmitter_data =
     TransmitterHunter::TransmitterData.new
-  @transmitter_data.transmitters.each do |t|
-    puts YAML::dump(t)
-  end
   haml :hunt
 end
