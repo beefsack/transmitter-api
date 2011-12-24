@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Broadcast Transmitters - Digital Radio by area served</name>
+<snippet />
+<description><![CDATA[<p><a href="http://creativecommons.org/licenses/by/2.5/au/"><img src="http://www.acma.gov.au/webwr/images/icons/cc_coa_image.jpg" alt="CC - Commonwealth of Australia image" hspace="0" align="absBottom" border="0"/></a></p>
+<p><a href="http://www.acma.gov.au/copyright">&copy;&nbsp;Commonwealth&nbsp;of&nbsp;Australia&nbsp;2011</a></p>
+<p>Broadcast Transmitter data is licensed under a Creative Commons Attribution 2.5 Australia Licence. If you use this material there are certain obligations you must fulfil. Details of these can be found in <a href="http://www.acma.gov.au/WEB/STANDARD/pc=PC_312132">Attributing ACMA material released under the Creative Commons Licence framework</a>.</p>
+<p><a href="http://www.acma.gov.au/data_disclaimer">Disclaimer - downloadable data</a></p>
+<p>Created on 04-Dec-2011</p>
+]]></description>
+<Style id="sn_tx">
+	<IconStyle><Icon><href>http://www.acma.gov.au/interforms/transmitter_maps/icon_tx_rd.png</href></Icon>
+	<hotSpot x="0.5" y="0.05" xunits="fraction" yunits="fraction"/></IconStyle>
+</Style>
+<Folder id="Adelaide">
+<name>Adelaide</name>
+<Placemark>
+<name>CRAFERS</name>
+<snippet>Site ID: 23181</snippet>
+<description><![CDATA[<p>Site ID: 23181<br />
+Site Name: Channel 7/10 Site 115 Summit Road CRAFERS<br />
+Area Served: Adelaide
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Category 1</td><td></td><td>204.640 MHz</td><td>50 kW</td><td>Vertical</td><td>Omnidirectional</td><td>121 m</td></tr>
+<tr><td>Category 3</td><td></td><td>206.352 MHz</td><td>50 kW</td><td>Vertical</td><td>Omnidirectional</td><td>121 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=23181">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>138.708078,-34.981040,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Brisbane">
+<name>Brisbane</name>
+<Placemark>
+<name>MOUNT COOT-THA</name>
+<snippet>Site ID: 12749</snippet>
+<description><![CDATA[<p>Site ID: 12749<br />
+Site Name: Channel 10 Site MOUNT COOT-THA<br />
+Area Served: Brisbane
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Category 1</td><td></td><td>202.928 MHz</td><td>50 kW</td><td>Vertical</td><td>Omnidirectional</td><td>192 m</td></tr>
+<tr><td>Category 1</td><td></td><td>204.640 MHz</td><td>50 kW</td><td>Vertical</td><td>Omnidirectional</td><td>192 m</td></tr>
+<tr><td>Category 3</td><td></td><td>206.352 MHz</td><td>50 kW</td><td>Vertical</td><td>Omnidirectional</td><td>192 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=12749">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>152.948130,-27.463130,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Melbourne">
+<name>Melbourne</name>
+<Placemark>
+<name>MT DANDENONG</name>
+<snippet>Site ID: 12013</snippet>
+<description><![CDATA[<p>Site ID: 12013<br />
+Site Name: ATV-10 Tower Ornata Road MT DANDENONG<br />
+Area Served: Melbourne
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Category 1</td><td></td><td>202.928 MHz</td><td>50 kW</td><td>Vertical</td><td>Directional</td><td>107 m</td></tr>
+<tr><td>Category 1</td><td></td><td>204.640 MHz</td><td>50 kW</td><td>Vertical</td><td>Directional</td><td>107 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=12013">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.346624,-37.837476,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>MT DANDENONG</name>
+<snippet>Site ID: 12014</snippet>
+<description><![CDATA[<p>Site ID: 12014<br />
+Site Name: NTL (ABV-2) Tower Eyre Road MT DANDENONG<br />
+Area Served: Melbourne
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Category 3</td><td></td><td>206.352 MHz</td><td>50 kW</td><td>Vertical</td><td>Directional</td><td>119 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=12014">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.348727,-37.834892,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Perth">
+<name>Perth</name>
+<Placemark>
+<name>CARMEL</name>
+<snippet>Site ID: 26624</snippet>
+<description><![CDATA[<p>Site ID: 26624<br />
+Site Name: NEW 10 Tower Welshpool Road CARMEL<br />
+Area Served: Perth
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Category 1</td><td></td><td>204.640 MHz</td><td>50 kW</td><td>Vertical</td><td>Directional</td><td>174 m</td></tr>
+<tr><td>Category 3</td><td></td><td>206.352 MHz</td><td>50 kW</td><td>Vertical</td><td>Directional</td><td>174 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=26624">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>116.061741,-32.012641,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Sydney">
+<name>Sydney</name>
+<Placemark>
+<name>ARTARMON</name>
+<snippet>Site ID: 4045</snippet>
+<description><![CDATA[<p>Site ID: 4045<br />
+Site Name: Ch7/10 Tower 192-196 Hampden Road ARTARMON<br />
+Area Served: Sydney
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Category 1</td><td></td><td>202.928 MHz</td><td>50 kW</td><td>Vertical</td><td>Omnidirectional</td><td>196 m</td></tr>
+<tr><td>Category 1</td><td></td><td>204.640 MHz</td><td>50 kW</td><td>Vertical</td><td>Omnidirectional</td><td>196 m</td></tr>
+<tr><td>Category 3</td><td></td><td>206.352 MHz</td><td>50 kW</td><td>Vertical</td><td>Omnidirectional</td><td>196 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=4045">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.180765,-33.805508,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>WILLOUGHBY</name>
+<snippet>Site ID: 4129</snippet>
+<description><![CDATA[<p>Site ID: 4129<br />
+Site Name: TCN 9 Television Tower Artarmon Road WILLOUGHBY<br />
+Area Served: Sydney
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>%(HeightLabel)s</th></tr>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Category 1</td><td></td><td>202.928 MHz</td><td>12.5 kW</td><td>Vertical</td><td>Omnidirectional</td><td>170 m</td></tr>
+<tr><td>Category 1</td><td></td><td>204.640 MHz</td><td>12.5 kW</td><td>Vertical</td><td>Omnidirectional</td><td>170 m</td></tr>
+<tr><td>Category 3</td><td></td><td>206.352 MHz</td><td>12.5 kW</td><td>Vertical</td><td>Omnidirectional</td><td>170 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=4129">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.195969,-33.811691,0</coordinates></Point>
+</Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,3439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Broadcast Transmitters - Temporary Licences by area served</name>
+<snippet />
+<description><![CDATA[<p><a href="http://creativecommons.org/licenses/by/2.5/au/"><img src="http://www.acma.gov.au/webwr/images/icons/cc_coa_image.jpg" alt="CC - Commonwealth of Australia image" hspace="0" align="absBottom" border="0"/></a></p>
+<p><a href="http://www.acma.gov.au/copyright">&copy;&nbsp;Commonwealth&nbsp;of&nbsp;Australia&nbsp;2011</a></p>
+<p>Broadcast Transmitter data is licensed under a Creative Commons Attribution 2.5 Australia Licence. If you use this material there are certain obligations you must fulfil. Details of these can be found in <a href="http://www.acma.gov.au/WEB/STANDARD/pc=PC_312132">Attributing ACMA material released under the Creative Commons Licence framework</a>.</p>
+<p><a href="http://www.acma.gov.au/data_disclaimer">Disclaimer - downloadable data</a></p>
+<p>Created on 04-Dec-2011</p>
+]]></description>
+<Style id="sn_tx">
+	<IconStyle><Icon><href>http://www.acma.gov.au/interforms/transmitter_maps/icon_tx_tmp.png</href></Icon>
+	<hotSpot x="0.5" y="0.05" xunits="fraction" yunits="fraction"/></IconStyle>
+</Style>
+<Folder id="Acton Road">
+<name>Acton Road</name>
+<Placemark>
+<name>ACTON</name>
+<snippet>Site ID: 33306</snippet>
+<description><![CDATA[<p>Site ID: 33306<br />
+Site Name: Broadcast Site Single Hill Cahill Place ACTON<br />
+Area Served: Acton Road
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TDT51</td><td>690.500 MHz</td><td>40 W</td><td>Horizontal</td><td>Directional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=33306">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>147.500190,-42.872993,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Adelaide">
+<name>Adelaide</name>
+<Placemark>
+<name>WINGFIELD</name>
+<snippet>Site ID: 151010</snippet>
+<description><![CDATA[<p>Site ID: 151010<br />
+Site Name: 5UV Tower site South Terrace WINGFIELD<br />
+Area Served: Adelaide
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Mast Height</th></tr>
+<tr><td>AM Radio</td><td>Test Transmission</td><td>5DN</td><td>1323 kHz</td><td>3.3 kW</td><td>Vertical</td><td>Directional</td><td>138 m</td></tr>
+<tr><td>AM Radio</td><td>Test Transmission</td><td>5DN</td><td>1323 kHz</td><td>5 kW</td><td>Vertical</td><td>Directional</td><td>138 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151010">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>138.575852,-34.834048,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Adelaide Oval (SE)">
+<name>Adelaide Oval (SE)</name>
+<Placemark>
+<name>NORTH ADELAIDE</name>
+<snippet>Site ID: 54362</snippet>
+<description><![CDATA[<p>Site ID: 54362<br />
+Site Name: Grandstand Adelaide Oval NORTH ADELAIDE<br />
+Area Served: Adelaide Oval (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>61.2 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>62.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=54362">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>138.596213,-34.916593,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Alice Springs">
+<name>Alice Springs</name>
+<Placemark>
+<name>ALICE SPRINGS</name>
+<snippet>Site ID: 570486</snippet>
+<description><![CDATA[<p>Site ID: 570486<br />
+Site Name: Optus Site West Gap ALICE SPRINGS<br />
+Area Served: Alice Springs
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>IMP30</td><td>543.500 MHz</td><td>500 W</td><td>Horizontal</td><td>Omnidirectional</td><td>35 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>QQQ38</td><td>599.500 MHz</td><td>500 W</td><td>Horizontal</td><td>Omnidirectional</td><td>35 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=570486">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>133.857582,-23.722554,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Alpurrurulam">
+<name>Alpurrurulam</name>
+<Placemark>
+<name>LAKE NASH</name>
+<snippet>Site ID: 152983</snippet>
+<description><![CDATA[<p>Site ID: 152983<br />
+Site Name: Broadcast Site LAKE NASH<br />
+Area Served: Alpurrurulam
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.1 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152983">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>137.850924,-20.982405,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Ampilatwatja">
+<name>Ampilatwatja</name>
+<Placemark>
+<name>AMPILATWATJA</name>
+<snippet>Site ID: 152932</snippet>
+<description><![CDATA[<p>Site ID: 152932<br />
+Site Name: Broadcast Site AMPILATWATJA<br />
+Area Served: Ampilatwatja
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.1 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152932">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>135.227389,-21.658353,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Angurugu">
+<name>Angurugu</name>
+<Placemark>
+<name>GROOTE EYLANDT</name>
+<snippet>Site ID: 153021</snippet>
+<description><![CDATA[<p>Site ID: 153021<br />
+Site Name: Broadcast site Angurugu Community GROOTE EYLANDT<br />
+Area Served: Angurugu
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>93.3 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>25 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153021">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>136.461449,-13.980744,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Areyonga">
+<name>Areyonga</name>
+<Placemark>
+<name>AREYONGA</name>
+<snippet>Site ID: 151566</snippet>
+<description><![CDATA[<p>Site ID: 151566<br />
+Site Name: Broadcast Site AREYONGA<br />
+Area Served: Areyonga
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>105.7 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151566">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>132.269070,-24.075865,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Arlparra">
+<name>Arlparra</name>
+<Placemark>
+<name>Arlparr</name>
+<snippet>Site ID: 138557</snippet>
+<description><![CDATA[<p>Site ID: 138557<br />
+Site Name: Shire Office Sandover Highway Arlparr<br />
+Area Served: Arlparra
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.1 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138557">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>134.769569,-22.087594,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Armidale">
+<name>Armidale</name>
+<Placemark>
+<name>KELLYS PLAIN</name>
+<snippet>Site ID: 280229</snippet>
+<description><![CDATA[<p>Site ID: 280229<br />
+Site Name: 2ARM FM Site Translator Road KELLYS PLAIN<br />
+Area Served: Armidale
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>92.1 MHz</td><td>2 kW</td><td>Mixed</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=280229">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.651760,-30.544266,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Ashford">
+<name>Ashford</name>
+<Placemark>
+<name>ASHFORD</name>
+<snippet>Site ID: 6881</snippet>
+<description><![CDATA[<p>Site ID: 6881<br />
+Site Name: Broadcast Site 1 ASHFORD<br />
+Area Served: Ashford
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>NEN60</td><td>753.500 MHz</td><td>75 W</td><td>Vertical</td><td>Directional</td><td>77 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=6881">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.118866,-29.329901,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Atherton">
+<name>Atherton</name>
+<Placemark>
+<name>ATHERTON</name>
+<snippet>Site ID: 22009</snippet>
+<description><![CDATA[<p>Site ID: 22009<br />
+Site Name: QAS Site Hallorans Hill ATHERTON<br />
+Area Served: Atherton
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>RTQ58</td><td>739.625 MHz</td><td>15 W</td><td>Horizontal</td><td>Directional</td><td>15 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TNQ64</td><td>781.500 MHz</td><td>45 W</td><td>Horizontal</td><td>Directional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=22009">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.491930,-17.266775,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Augusta">
+<name>Augusta</name>
+<Placemark>
+<name>AUGUSTA</name>
+<snippet>Site ID: 137492</snippet>
+<description><![CDATA[<p>Site ID: 137492<br />
+Site Name: Augusta Telecentre Bdlg 66 Allnutt Terrace AUGUSTA<br />
+Area Served: Augusta
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>97.1 MHz</td><td>200 W</td><td>Vertical</td><td>Omnidirectional</td><td>25 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=137492">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>115.155953,-34.314220,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Bamaga">
+<name>Bamaga</name>
+<Placemark>
+<name>BAMAGA</name>
+<snippet>Site ID: 40897</snippet>
+<description><![CDATA[<p>Site ID: 40897<br />
+Site Name: Broadcast Site Anu St BAMAGA<br />
+Area Served: Bamaga
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>91.9 MHz</td><td>250 W</td><td>Mixed</td><td>Omnidirectional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=40897">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>142.390091,-10.888733,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Barrington / Stratford">
+<name>Barrington / Stratford</name>
+<Placemark>
+<name>GLOUCESTER</name>
+<snippet>Site ID: 135650</snippet>
+<description><![CDATA[<p>Site ID: 135650<br />
+Site Name: Rebel Media site Kiaora Lookout GLOUCESTER<br />
+Area Served: Barrington / Stratford
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Temporary Transmission</td><td>4RBL</td><td>93.7 MHz</td><td>200 W</td><td>Mixed</td><td>Omnidirectional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=135650">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.946496,-31.962448,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Batchelor">
+<name>Batchelor</name>
+<Placemark>
+<name>BATCHELOR</name>
+<snippet>Site ID: 1707</snippet>
+<description><![CDATA[<p>Site ID: 1707<br />
+Site Name: Broadcast Site Mardango Crescent BATCHELOR<br />
+Area Served: Batchelor
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>96.1 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=1707">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>131.027867,-13.044192,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Beacon">
+<name>Beacon</name>
+<Placemark>
+<name>BEACON</name>
+<snippet>Site ID: 153388</snippet>
+<description><![CDATA[<p>Site ID: 153388<br />
+Site Name: Broadcasting site Bencubbin Road BEACON<br />
+Area Served: Beacon
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Temporary Transmission</td><td>6MER</td><td>88.5 MHz</td><td>200 W</td><td>Vertical</td><td>Omnidirectional</td><td>40 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153388">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>117.893102,-30.461376,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Bellary">
+<name>Bellary</name>
+<Placemark>
+<name>BELLARY</name>
+<snippet>Site ID: 153556</snippet>
+<description><![CDATA[<p>Site ID: 153556<br />
+Site Name: Broadcast Site Bellary Community Council Chambers BELLARY<br />
+Area Served: Bellary
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>101.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153556">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>117.884687,-23.065328,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Billiluna">
+<name>Billiluna</name>
+<Placemark>
+<name>BILLILUNA</name>
+<snippet>Site ID: 151721</snippet>
+<description><![CDATA[<p>Site ID: 151721<br />
+Site Name: Broadcast Site Station Homestead BILLILUNA<br />
+Area Served: Billiluna
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>103.5 MHz</td><td>20 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151721">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>127.651266,-19.548580,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Binalong Bay">
+<name>Binalong Bay</name>
+<Placemark>
+<name>BINALONG BAY</name>
+<snippet>Site ID: 150725</snippet>
+<description><![CDATA[<p>Site ID: 150725<br />
+Site Name: Broadcast Site Gardens Rd BINALONG BAY<br />
+Area Served: Binalong Bay
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TDT46</td><td>655.500 MHz</td><td>125 W</td><td>Vertical</td><td>Directional</td><td>20 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TVT47</td><td>662.500 MHz</td><td>125 W</td><td>Vertical</td><td>Directional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=150725">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>148.285242,-41.246264,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Birdwood (SE)">
+<name>Birdwood (SE)</name>
+<Placemark>
+<name>Birdwood</name>
+<snippet>Site ID: 140182</snippet>
+<description><![CDATA[<p>Site ID: 140182<br />
+Site Name: National Motor Museum Grounds Shannon Street Birdwood<br />
+Area Served: Birdwood (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>94.3 MHz</td><td>5 W</td><td>Vertical</td><td>Omnidirectional</td><td>5 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=140182">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>138.954236,-34.819070,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Blackstone">
+<name>Blackstone</name>
+<Placemark>
+<name>BLACKSTONE</name>
+<snippet>Site ID: 29666</snippet>
+<description><![CDATA[<p>Site ID: 29666<br />
+Site Name: Broadcast Site Bore (Papulankutja) BLACKSTONE<br />
+Area Served: Blackstone
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=29666">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>128.286304,-25.998806,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Bombala">
+<name>Bombala</name>
+<Placemark>
+<name>BOMBALA</name>
+<snippet>Site ID: 9797</snippet>
+<description><![CDATA[<p>Site ID: 9797<br />
+Site Name: Broadcast Site 7 km NNW of BOMBALA<br />
+Area Served: Bombala
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>CBN63</td><td>774.625 MHz</td><td>7.5 kW</td><td>Vertical</td><td>Directional</td><td>25 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=9797">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>149.216468,-36.849911,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Bonalbo">
+<name>Bonalbo</name>
+<Placemark>
+<name>BONALBO</name>
+<snippet>Site ID: 8238</snippet>
+<description><![CDATA[<p>Site ID: 8238<br />
+Site Name: Bonalbo Translator Site BONALBO<br />
+Area Served: Bonalbo
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>NEN60</td><td>753.500 MHz</td><td>50 W</td><td>Horizontal</td><td>Directional</td><td>16 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=8238">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>152.637532,-28.761093,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Braidwood">
+<name>Braidwood</name>
+<Placemark>
+<name>MT GILLAMATONG</name>
+<snippet>Site ID: 9722</snippet>
+<description><![CDATA[<p>Site ID: 9722<br />
+Site Name: Broadcast Site 2.8 km SW of Braidwood MT GILLAMATONG<br />
+Area Served: Braidwood
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>WIN62</td><td>767.500 MHz</td><td>120 W</td><td>Vertical</td><td>Omnidirectional</td><td>28 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=9722">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>149.771331,-35.454845,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Brisbane">
+<name>Brisbane</name>
+<Placemark>
+<name>WYNNUM WEST</name>
+<snippet>Site ID: 13419</snippet>
+<description><![CDATA[<p>Site ID: 13419<br />
+Site Name: Broadcast Planning Site Wynnum Rd Near Van Park WYNNUM WEST<br />
+Area Served: Brisbane
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Mast Height</th></tr>
+<tr><td>AM Radio</td><td>Test Transmission</td><td>4KQ</td><td>693 kHz</td><td>10 kW</td><td>Vertical</td><td>Directional</td><td>72 m</td></tr>
+<tr><td>AM Radio</td><td>Test Transmission</td><td>4KQ</td><td>693 kHz</td><td>5 kW</td><td>Vertical</td><td>Directional</td><td>72 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=13419">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>153.147811,-27.463764,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Brisbane Cricket Ground (SE)">
+<name>Brisbane Cricket Ground (SE)</name>
+<Placemark>
+<name>WOOLLOONGABBA</name>
+<snippet>Site ID: 12914</snippet>
+<description><![CDATA[<p>Site ID: 12914<br />
+Site Name: Brisbane Cricket Ground Vulture St WOOLLOONGABBA<br />
+Area Served: Brisbane Cricket Ground (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>61.2 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>62.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=12914">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>153.038078,-27.485731,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Broken Hill">
+<name>Broken Hill</name>
+<Placemark>
+<name>BROKEN HILL</name>
+<snippet>Site ID: 151236</snippet>
+<description><![CDATA[<p>Site ID: 151236<br />
+Site Name: Broadcast Site 3 km NW of BROKEN HILL<br />
+Area Served: Broken Hill
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Temporary Transmission</td><td>2HIL</td><td>96.5 MHz</td><td>4 kW</td><td>Mixed</td><td>Omnidirectional</td><td>35 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151236">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>141.444569,-31.938700,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Bunbury">
+<name>Bunbury</name>
+<Placemark>
+<name>BUREKUP</name>
+<snippet>Site ID: 27867</snippet>
+<description><![CDATA[<p>Site ID: 27867<br />
+Site Name: Broadcast Site Mt Lennard BUREKUP<br />
+Area Served: Bunbury
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>SSW35</td><td>578.500 MHz</td><td>300 kW</td><td>Horizontal</td><td>Omnidirectional</td><td>180 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>SDW37</td><td>592.500 MHz</td><td>300 kW</td><td>Horizontal</td><td>Omnidirectional</td><td>180 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>WOW39</td><td>606.500 MHz</td><td>300 kW</td><td>Horizontal</td><td>Omnidirectional</td><td>180 m</td></tr>
+<tr><td>Analogue TV</td><td>Test Transmission</td><td>WOW40</td><td>611.224 MHz</td><td>600 kW</td><td>Horizontal</td><td>Omnidirectional</td><td>180 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=27867">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>115.914802,-33.396630,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Bundaberg">
+<name>Bundaberg</name>
+<Placemark>
+<name>SLOPING HUMMOCK</name>
+<snippet>Site ID: 16825</snippet>
+<description><![CDATA[<p>Site ID: 16825<br />
+Site Name: Council Reservoir SLOPING HUMMOCK<br />
+Area Served: Bundaberg
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>96.3 MHz</td><td>200 W</td><td>Vertical</td><td>Omnidirectional</td><td>35 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=16825">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>152.426290,-24.842457,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Busselton (SE)">
+<name>Busselton (SE)</name>
+<Placemark>
+<name>Busseltonn</name>
+<snippet>Site ID: 138697</snippet>
+<description><![CDATA[<p>Site ID: 138697<br />
+Site Name: Sir Stewart Bovel Park Bussell Hwy Busseltonn<br />
+Area Served: Busselton (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>94.9 MHz</td><td>1 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138697">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>115.366911,-33.665530,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Cairns">
+<name>Cairns</name>
+<Placemark>
+<name>SMITHFIELD</name>
+<snippet>Site ID: 152356</snippet>
+<description><![CDATA[<p>Site ID: 152356<br />
+Site Name: Broadcast Site Smithfield State High School SMITHFIELD<br />
+Area Served: Cairns
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>101.9 MHz</td><td>2 kW</td><td>Mixed</td><td>Omnidirectional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152356">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.695561,-16.813344,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Canberra">
+<name>Canberra</name>
+<Placemark>
+<name>BLACK MOUNTAIN</name>
+<snippet>Site ID: 9580</snippet>
+<description><![CDATA[<p>Site ID: 9580<br />
+Site Name: Telecom Tower BLACK MOUNTAIN<br />
+Area Served: Canberra
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital Radio</td><td>Scientific Assigned</td><td></td><td>211.648 MHz</td><td>3.1 kW</td><td>Vertical</td><td>Omnidirectional</td><td>163 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=9580">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>149.097781,-35.275511,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Canteen Creek">
+<name>Canteen Creek</name>
+<Placemark>
+<name>CANTEEN CREEK</name>
+<snippet>Site ID: 152939</snippet>
+<description><![CDATA[<p>Site ID: 152939<br />
+Site Name: Broadcast Site Community Store CANTEEN CREEK<br />
+Area Served: Canteen Creek
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.1 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152939">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>135.586104,-20.644188,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Cardwell">
+<name>Cardwell</name>
+<Placemark>
+<name>CARDWELL</name>
+<snippet>Site ID: 440464</snippet>
+<description><![CDATA[<p>Site ID: 440464<br />
+Site Name: Telstra site Mulleys Hill CARDWELL<br />
+Area Served: Cardwell
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>RTQ49</td><td>676.500 MHz</td><td>25 W</td><td>Horizontal</td><td>Directional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=440464">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.991705,-18.248348,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Carnarvon">
+<name>Carnarvon</name>
+<Placemark>
+<name>MORGANTOWN</name>
+<snippet>Site ID: 139441</snippet>
+<description><![CDATA[<p>Site ID: 139441<br />
+Site Name: Radio MAMA Studios 24 Norton Way MORGANTOWN<br />
+Area Served: Carnarvon
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>102.9 MHz</td><td>100 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=139441">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>113.657852,-24.881277,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Castlemaine">
+<name>Castlemaine</name>
+<Placemark>
+<name>CASTLEMAINE</name>
+<snippet>Site ID: 305532</snippet>
+<description><![CDATA[<p>Site ID: 305532<br />
+Site Name: Comms Tower SW Corner Castlemaine Smallgoods off 13 Daws Road CASTLEMAINE<br />
+Area Served: Castlemaine
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>94.9 MHz</td><td>100 W</td><td>Vertical</td><td>Omnidirectional</td><td>50 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=305532">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>144.196876,-37.049441,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Central Western Slopes">
+<name>Central Western Slopes</name>
+<Placemark>
+<name>MT CENN CRUAICH</name>
+<snippet>Site ID: 151278</snippet>
+<description><![CDATA[<p>Site ID: 151278<br />
+Site Name: Broadcast Site MT CENN CRUAICH<br />
+Area Served: Central Western Slopes
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>CBN41</td><td>620.500 MHz</td><td>600 kW</td><td>Horizontal</td><td>Directional</td><td>155 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151278">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>149.022561,-31.342432,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Cherbourg">
+<name>Cherbourg</name>
+<Placemark>
+<name>CHERBOURG</name>
+<snippet>Site ID: 150056</snippet>
+<description><![CDATA[<p>Site ID: 150056<br />
+Site Name: Broadcast Site Council Chambers CHERBOURG<br />
+Area Served: Cherbourg
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>94.1 MHz</td><td>2 kW</td><td>Mixed</td><td>Omnidirectional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=150056">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.954309,-26.290816,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Clermont">
+<name>Clermont</name>
+<Placemark>
+<name>CLERMONT</name>
+<snippet>Site ID: 17956</snippet>
+<description><![CDATA[<p>Site ID: 17956<br />
+Site Name: Broadcast Site MacDonald Flat Rd CLERMONT<br />
+Area Served: Clermont
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TNQ63</td><td>774.625 MHz</td><td>200 W</td><td>Horizontal</td><td>Directional</td><td>70 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>RTQ66</td><td>795.625 MHz</td><td>200 W</td><td>Horizontal</td><td>Directional</td><td>70 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=17956">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>147.644139,-22.856234,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Coffs Harbour">
+<name>Coffs Harbour</name>
+<Placemark>
+<name>MACAULEYS HEADLAND</name>
+<snippet>Site ID: 7895</snippet>
+<description><![CDATA[<p>Site ID: 7895<br />
+Site Name: Site 1 Macauleys Reservoir MACAULEYS HEADLAND<br />
+Area Served: Coffs Harbour
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>94.1 MHz</td><td>200 W</td><td>Vertical</td><td>Omnidirectional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=7895">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>153.129178,-30.274866,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Collie">
+<name>Collie</name>
+<Placemark>
+<name>COLLIE</name>
+<snippet>Site ID: 135978</snippet>
+<description><![CDATA[<p>Site ID: 135978<br />
+Site Name: Old Power Station Site Patstone Road COLLIE<br />
+Area Served: Collie
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Mast Height</th></tr>
+<tr><td>AM Radio</td><td>TCBL</td><td></td><td>1089 kHz</td><td>500 W</td><td>Vertical</td><td>Omnidirectional</td><td>63 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=135978">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>116.142580,-33.348895,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Collinsville">
+<name>Collinsville</name>
+<Placemark>
+<name>MT DEVLIN</name>
+<snippet>Site ID: 151698</snippet>
+<description><![CDATA[<p>Site ID: 151698<br />
+Site Name: Broadcast Site 3.3 km NNW of Collinsville MT DEVLIN<br />
+Area Served: Collinsville
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TNQ62</td><td>767.500 MHz</td><td>50 W</td><td>Horizontal</td><td>Directional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151698">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>147.838682,-20.524179,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Condobolin">
+<name>Condobolin</name>
+<Placemark>
+<name>CONDOBOLIN</name>
+<snippet>Site ID: 11394</snippet>
+<description><![CDATA[<p>Site ID: 11394<br />
+Site Name: Broadcast Site Reservoir Hill 1 km NE of CONDOBOLIN<br />
+Area Served: Condobolin
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>CTC58</td><td>739.500 MHz</td><td>50 W</td><td>Vertical</td><td>Directional</td><td>45 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=11394">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>147.156733,-33.078151,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Coolah">
+<name>Coolah</name>
+<Placemark>
+<name>COOLAH</name>
+<snippet>Site ID: 11281</snippet>
+<description><![CDATA[<p>Site ID: 11281<br />
+Site Name: Prime Television Site Queensborough Near COOLAH<br />
+Area Served: Coolah
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>WIN61</td><td>760.500 MHz</td><td>60 W</td><td>Horizontal</td><td>Directional</td><td>17 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=11281">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>149.726626,-31.775742,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Coonana">
+<name>Coonana</name>
+<Placemark>
+<name>COONANA</name>
+<snippet>Site ID: 151296</snippet>
+<description><![CDATA[<p>Site ID: 151296<br />
+Site Name: Broadcast Site COONANA<br />
+Area Served: Coonana
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.7 MHz</td><td>20 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151296">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>123.151417,-31.023690,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Corryong">
+<name>Corryong</name>
+<Placemark>
+<name>MT MITTAMATITE</name>
+<snippet>Site ID: 41341</snippet>
+<description><![CDATA[<p>Site ID: 41341<br />
+Site Name: Broadcast Site 6.5 km NW of Corryong MT MITTAMATITE<br />
+Area Served: Corryong
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>94.9 MHz</td><td>1 kW</td><td>Mixed</td><td>Omnidirectional</td><td>25 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=41341">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>147.862766,-36.148964,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Cosmo Newberry">
+<name>Cosmo Newberry</name>
+<Placemark>
+<name>COSMO NEWBERRY</name>
+<snippet>Site ID: 152478</snippet>
+<description><![CDATA[<p>Site ID: 152478<br />
+Site Name: Broadcast Site Cosmo Newberry Community COSMO NEWBERRY<br />
+Area Served: Cosmo Newberry
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152478">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>122.904770,-27.985878,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Daly River">
+<name>Daly River</name>
+<Placemark>
+<name>DALY RIVER</name>
+<snippet>Site ID: 1403</snippet>
+<description><![CDATA[<p>Site ID: 1403<br />
+Site Name: Telstra Radio Tower Mission DALY RIVER<br />
+Area Served: Daly River
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>102.9 MHz</td><td>25 W</td><td>Mixed</td><td>Omnidirectional</td><td>24 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=1403">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>130.689342,-13.751085,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Darwin">
+<name>Darwin</name>
+<Placemark>
+<name>BERRIMAH</name>
+<snippet>Site ID: 1207</snippet>
+<description><![CDATA[<p>Site ID: 1207<br />
+Site Name: Broadcast Site Section 4456 (100) Deloraine Road BERRIMAH<br />
+Area Served: Darwin
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital Radio</td><td>Scientific Assigned</td><td></td><td>211.648 MHz</td><td>5 kW</td><td>Vertical</td><td>Omnidirectional</td><td>100 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=1207">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>130.968833,-12.414115,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>LUDMILLA</name>
+<snippet>Site ID: 1332</snippet>
+<description><![CDATA[<p>Site ID: 1332<br />
+Site Name: Broadcast Site Douglas St LUDMILLA<br />
+Area Served: Darwin
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Mast Height</th></tr>
+<tr><td>AM Radio</td><td>TCBL</td><td></td><td>1530 kHz</td><td>2 kW</td><td>Vertical</td><td>Omnidirectional</td><td>50 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=1332">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>130.849700,-12.424010,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Derwent Valley">
+<name>Derwent Valley</name>
+<Placemark>
+<name>NEW NORFOLK</name>
+<snippet>Site ID: 138619</snippet>
+<description><![CDATA[<p>Site ID: 138619<br />
+Site Name: SE Corner Main Bdlg Derwent Valley Council Chambers Circle St NEW NORFOLK<br />
+Area Served: Derwent Valley
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>98.9 MHz</td><td>100 W</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138619">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>147.060460,-42.781647,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Docker River">
+<name>Docker River</name>
+<Placemark>
+<name>DOCKER RIVER</name>
+<snippet>Site ID: 151543</snippet>
+<description><![CDATA[<p>Site ID: 151543<br />
+Site Name: Broadcast Site DOCKER RIVER<br />
+Area Served: Docker River
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.1 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151543">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>129.075606,-24.874293,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Dungog">
+<name>Dungog</name>
+<Placemark>
+<name>DUNGOG</name>
+<snippet>Site ID: 40610</snippet>
+<description><![CDATA[<p>Site ID: 40610<br />
+Site Name: Broadcast Site Coorei Hill DUNGOG<br />
+Area Served: Dungog
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>NEN62</td><td>767.500 MHz</td><td>50 W</td><td>Horizontal</td><td>Directional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=40610">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.785126,-32.395170,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>DUNGOG</name>
+<snippet>Site ID: 250316</snippet>
+<description><![CDATA[<p>Site ID: 250316<br />
+Site Name: Telstra Site Coorei Hill DUNGOG<br />
+Area Served: Dungog
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.9 MHz</td><td>1 kW</td><td>Mixed</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=250316">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.785106,-32.395006,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Elcho Island">
+<name>Elcho Island</name>
+<Placemark>
+<name>ELCHO ISLAND</name>
+<snippet>Site ID: 204369</snippet>
+<description><![CDATA[<p>Site ID: 204369<br />
+Site Name: NAS Site Galiwinku ELCHO ISLAND<br />
+Area Served: Elcho Island
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Mast Height</th></tr>
+<tr><td>AM Radio</td><td>TCBL</td><td></td><td>1566 kHz</td><td>1 kW</td><td>Vertical</td><td>Omnidirectional</td><td>50 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=204369">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>135.575325,-12.019935,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Elliott">
+<name>Elliott</name>
+<Placemark>
+<name>ELLIOTT</name>
+<snippet>Site ID: 500755</snippet>
+<description><![CDATA[<p>Site ID: 500755<br />
+Site Name: Broadcast Site Lot 134 Stuart Hwy ELLIOTT<br />
+Area Served: Elliott
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.9 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=500755">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>133.545167,-17.554603,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Engawala">
+<name>Engawala</name>
+<Placemark>
+<name>ENGAWALA</name>
+<snippet>Site ID: 139576</snippet>
+<description><![CDATA[<p>Site ID: 139576<br />
+Site Name: Broadcast Mast Adjacent Council Offices Building ENGAWALA<br />
+Area Served: Engawala
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>102.7 MHz</td><td>30 W</td><td>Mixed</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=139576">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>134.453472,-22.802977,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Fremantle (SE)">
+<name>Fremantle (SE)</name>
+<Placemark>
+<name>FREMANTLE</name>
+<snippet>Site ID: 27181</snippet>
+<description><![CDATA[<p>Site ID: 27181<br />
+Site Name: Port Authority Building 1 Cliff Street FREMANTLE<br />
+Area Served: Fremantle (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Analogue TV</td><td>Special Event</td><td></td><td>807.250 MHz</td><td>20 W</td><td>Horizontal</td><td>Omnidirectional</td><td>80 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=27181">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>115.741712,-32.053863,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Gapuwiyak">
+<name>Gapuwiyak</name>
+<Placemark>
+<name>GAPUWIYAK</name>
+<snippet>Site ID: 53890</snippet>
+<description><![CDATA[<p>Site ID: 53890<br />
+Site Name: Broadcast Site GAPUWIYAK<br />
+Area Served: Gapuwiyak
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>103.9 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>25 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=53890">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>135.806464,-12.505036,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>GAPUWIYAK</name>
+<snippet>Site ID: 204370</snippet>
+<description><![CDATA[<p>Site ID: 204370<br />
+Site Name: Broadcast Site Resource Centre GAPUWIYAK<br />
+Area Served: Gapuwiyak
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Mast Height</th></tr>
+<tr><td>AM Radio</td><td>TCBL</td><td></td><td>1476 kHz</td><td>400 W</td><td>Vertical</td><td>Omnidirectional</td><td>50 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=204370">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>135.809212,-12.506882,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Geraldton">
+<name>Geraldton</name>
+<Placemark>
+<name>MOONYOONOOKA</name>
+<snippet>Site ID: 31030</snippet>
+<description><![CDATA[<p>Site ID: 31030<br />
+Site Name: ML Comms Group Site 2 Mt Fairfax MOONYOONOOKA<br />
+Area Served: Geraldton
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>100.5 MHz</td><td>100 W</td><td>Mixed</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=31030">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>114.692859,-28.732750,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Gin Gin">
+<name>Gin Gin</name>
+<Placemark>
+<name>Gin Gin</name>
+<snippet>Site ID: 137815</snippet>
+<description><![CDATA[<p>Site ID: 137815<br />
+Site Name: Railway Station Mulgrave Road Gin Gin<br />
+Area Served: Gin Gin
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>104.9 MHz</td><td>100 W</td><td>Mixed</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=137815">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.961051,-24.991745,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Glen Innes">
+<name>Glen Innes</name>
+<Placemark>
+<name>GLEN INNES</name>
+<snippet>Site ID: 6955</snippet>
+<description><![CDATA[<p>Site ID: 6955<br />
+Site Name: Broadcast Site Carpenters Hill 4 km NW of GLEN INNES<br />
+Area Served: Glen Innes
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>NEN60</td><td>753.500 MHz</td><td>100 W</td><td>Vertical</td><td>Directional</td><td>33 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=6955">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.691435,-29.717196,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Glenden">
+<name>Glenden</name>
+<Placemark>
+<name>GLENDEN</name>
+<snippet>Site ID: 151669</snippet>
+<description><![CDATA[<p>Site ID: 151669<br />
+Site Name: Broadcast Site Water Treatment Plant GLENDEN<br />
+Area Served: Glenden
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TNQ40</td><td>613.500 MHz</td><td>10 W</td><td>Horizontal</td><td>Directional</td><td>35 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151669">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>148.109360,-21.357960,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Gloucester">
+<name>Gloucester</name>
+<Placemark>
+<name>GLOUCESTER</name>
+<snippet>Site ID: 138266</snippet>
+<description><![CDATA[<p>Site ID: 138266<br />
+Site Name: Majestic Arcade 78 Church St GLOUCESTER<br />
+Area Served: Gloucester
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>104.1 MHz</td><td>100 W</td><td>Mixed</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138266">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.959451,-32.006271,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Goolwa">
+<name>Goolwa</name>
+<Placemark>
+<name>KERBY HILL</name>
+<snippet>Site ID: 502467</snippet>
+<description><![CDATA[<p>Site ID: 502467<br />
+Site Name: Northern Site Crows Nest Rd 2 km NNW of Port Elliot KERBY HILL<br />
+Area Served: Goolwa
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>96.3 MHz</td><td>500 W</td><td>Mixed</td><td>Omnidirectional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=502467">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>138.662853,-35.481743,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Goondiwindi">
+<name>Goondiwindi</name>
+<Placemark>
+<name>GOONDIWINDI</name>
+<snippet>Site ID: 40589</snippet>
+<description><![CDATA[<p>Site ID: 40589<br />
+Site Name: Broadcast Site 5 km NE of GOONDIWINDI<br />
+Area Served: Goondiwindi
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TNQ62</td><td>767.500 MHz</td><td>250 W</td><td>Horizontal</td><td>Directional</td><td>53 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>RTQ65</td><td>788.500 MHz</td><td>250 W</td><td>Horizontal</td><td>Directional</td><td>52 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=40589">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>150.338275,-28.519230,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Gordonvale">
+<name>Gordonvale</name>
+<Placemark>
+<name>GREEN HILL</name>
+<snippet>Site ID: 151771</snippet>
+<description><![CDATA[<p>Site ID: 151771<br />
+Site Name: Broadcast Site Green Hill Rd 1.2 km E of GREEN HILL<br />
+Area Served: Gordonvale
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>STQ43</td><td>634.500 MHz</td><td>500 W</td><td>Horizontal</td><td>Directional</td><td>35 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TNQ46</td><td>655.500 MHz</td><td>500 W</td><td>Horizontal</td><td>Directional</td><td>35 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>RTQ49</td><td>676.500 MHz</td><td>500 W</td><td>Horizontal</td><td>Directional</td><td>35 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151771">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.819430,-17.045762,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Haasts Bluff">
+<name>Haasts Bluff</name>
+<Placemark>
+<name>HAASTS BLUFF</name>
+<snippet>Site ID: 2850</snippet>
+<description><![CDATA[<p>Site ID: 2850<br />
+Site Name: Broadcast Site 206 km W of Alice Springs HAASTS BLUFF<br />
+Area Served: Haasts Bluff
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>103.7 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=2850">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>131.878814,-23.445994,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Harts Range">
+<name>Harts Range</name>
+<Placemark>
+<name>HARTS RANGE</name>
+<snippet>Site ID: 153553</snippet>
+<description><![CDATA[<p>Site ID: 153553<br />
+Site Name: Broadcast Site Council Chambers HARTS RANGE<br />
+Area Served: Harts Range
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.1 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153553">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>134.935681,-22.983716,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Harvey">
+<name>Harvey</name>
+<Placemark>
+<name>HARVEY</name>
+<snippet>Site ID: 480719</snippet>
+<description><![CDATA[<p>Site ID: 480719<br />
+Site Name: 6HRV FM Site Honeymoon Road HARVEY<br />
+Area Served: Harvey
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>96.5 MHz</td><td>400 W</td><td>Vertical</td><td>Directional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=480719">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>115.933381,-33.045783,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Hawker">
+<name>Hawker</name>
+<Placemark>
+<name>HAWKER</name>
+<snippet>Site ID: 24408</snippet>
+<description><![CDATA[<p>Site ID: 24408<br />
+Site Name: Mt Plantagenet 28 km east of HAWKER<br />
+Area Served: Hawker
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Temporary Transmission</td><td>8SAT</td><td>88.7 MHz</td><td>1 kW</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=24408">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>138.681902,-31.883798,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Hay">
+<name>Hay</name>
+<Placemark>
+<name>HAY</name>
+<snippet>Site ID: 9935</snippet>
+<description><![CDATA[<p>Site ID: 9935<br />
+Site Name: Television Site Midwestern Hwy 15km NE HAY<br />
+Area Served: Hay
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>MTN56</td><td>725.500 MHz</td><td>9 kW</td><td>Horizontal</td><td>Directional</td><td>80 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=9935">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>144.986482,-34.452260,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Hobart Bellerive Oval (SE)">
+<name>Hobart Bellerive Oval (SE)</name>
+<Placemark>
+<name>BELLERIVE</name>
+<snippet>Site ID: 402615</snippet>
+<description><![CDATA[<p>Site ID: 402615<br />
+Site Name: Bellerive Oval 15 Derwent St BELLERIVE<br />
+Area Served: Hobart Bellerive Oval (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>61.2 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>62.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=402615">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>147.373601,-42.877398,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Holbrook">
+<name>Holbrook</name>
+<Placemark>
+<name>HOLBROOK</name>
+<snippet>Site ID: 139167</snippet>
+<description><![CDATA[<p>Site ID: 139167<br />
+Site Name: GHR Site Mount Raven HOLBROOK<br />
+Area Served: Holbrook
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>96.7 MHz</td><td>200 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=139167">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>147.253701,-35.802183,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Imangara">
+<name>Imangara</name>
+<Placemark>
+<name>IMANGARA</name>
+<snippet>Site ID: 133811</snippet>
+<description><![CDATA[<p>Site ID: 133811<br />
+Site Name: Broadcast Site IMANGARA<br />
+Area Served: Imangara
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.3 MHz</td><td>20 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=133811">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>134.680300,-21.050444,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Inverell">
+<name>Inverell</name>
+<Placemark>
+<name>INVERELL</name>
+<snippet>Site ID: 138270</snippet>
+<description><![CDATA[<p>Site ID: 138270<br />
+Site Name: Former North West Electricity Bdlg 129-135 Otho St INVERELL<br />
+Area Served: Inverell
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>91.9 MHz</td><td>150 W</td><td>Mixed</td><td>Omnidirectional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138270">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.114038,-29.777600,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Jameison">
+<name>Jameison</name>
+<Placemark>
+<name>JAMESON</name>
+<snippet>Site ID: 151516</snippet>
+<description><![CDATA[<p>Site ID: 151516<br />
+Site Name: Broadcast Site Mantamaru JAMESON<br />
+Area Served: Jameison
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>13 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151516">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>127.664025,-25.863412,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Kalgoorlie">
+<name>Kalgoorlie</name>
+<Placemark>
+<name>KALGOORLIE</name>
+<snippet>Site ID: 29450</snippet>
+<description><![CDATA[<p>Site ID: 29450<br />
+Site Name: Broadcast Site Peters Hill 4km NW of KALGOORLIE<br />
+Area Served: Kalgoorlie
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>WOW10</td><td>212.500 MHz</td><td>4 kW</td><td>Horizontal</td><td>Directional</td><td>73 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=29450">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>121.440121,-30.717110,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>KALGOORLIE</name>
+<snippet>Site ID: 45323</snippet>
+<description><![CDATA[<p>Site ID: 45323<br />
+Site Name: Comms Tower KCGM Minesite KALGOORLIE<br />
+Area Served: Kalgoorlie
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>96.3 MHz</td><td>6 kW</td><td>Mixed</td><td>Omnidirectional</td><td>45 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=45323">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>121.507691,-30.770308,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Kandos">
+<name>Kandos</name>
+<Placemark>
+<name>BALDY PEAK</name>
+<snippet>Site ID: 40833</snippet>
+<description><![CDATA[<p>Site ID: 40833<br />
+Site Name: Broadcast Site BALDY PEAK<br />
+Area Served: Kandos
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>CBN59</td><td>746.500 MHz</td><td>150 W</td><td>Horizontal</td><td>Directional</td><td>30 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>CTC62</td><td>767.500 MHz</td><td>150 W</td><td>Horizontal</td><td>Directional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=40833">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>149.989606,-32.871859,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Kanpa">
+<name>Kanpa</name>
+<Placemark>
+<name>KANPA</name>
+<snippet>Site ID: 153561</snippet>
+<description><![CDATA[<p>Site ID: 153561<br />
+Site Name: Broadcast Site KANPA<br />
+Area Served: Kanpa
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153561">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>125.611654,-26.530997,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Karijini Eco Retreat">
+<name>Karijini Eco Retreat</name>
+<Placemark>
+<name>Karijini National Park</name>
+<snippet>Site ID: 138496</snippet>
+<description><![CDATA[<p>Site ID: 138496<br />
+Site Name: Eco Retreat Karijini National Park<br />
+Area Served: Karijini Eco Retreat
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.5 MHz</td><td>25 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138496">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>118.262636,-22.384068,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Karijini Rangers Quarters">
+<name>Karijini Rangers Quarters</name>
+<Placemark>
+<name>Karijini National Park</name>
+<snippet>Site ID: 138497</snippet>
+<description><![CDATA[<p>Site ID: 138497<br />
+Site Name: Rangers Quarters Karijini National Park<br />
+Area Served: Karijini Rangers Quarters
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.5 MHz</td><td>25 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138497">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>118.458635,-22.581773,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Karilywara">
+<name>Karilywara</name>
+<Placemark>
+<name>KARILYWARA</name>
+<snippet>Site ID: 152420</snippet>
+<description><![CDATA[<p>Site ID: 152420<br />
+Site Name: Broadcast Site KARILYWARA<br />
+Area Served: Karilywara
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152420">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>126.323731,-24.612103,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Karratha">
+<name>Karratha</name>
+<Placemark>
+<name>KARRATHA</name>
+<snippet>Site ID: 38550</snippet>
+<description><![CDATA[<p>Site ID: 38550<br />
+Site Name: TV Site KARRATHA<br />
+Area Served: Karratha
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>WOW41</td><td>620.500 MHz</td><td>250 W</td><td>Horizontal</td><td>Directional</td><td>69 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=38550">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>116.859020,-20.735618,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Kilmore">
+<name>Kilmore</name>
+<Placemark>
+<name>KILMORE</name>
+<snippet>Site ID: 302936</snippet>
+<description><![CDATA[<p>Site ID: 302936<br />
+Site Name: Studio Racecourse KILMORE<br />
+Area Served: Kilmore
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>98.3 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>50 m</td></tr>
+<tr><td>FM Radio</td><td>Test Transmission</td><td></td><td>98.3 MHz</td><td>50 W</td><td>Vertical</td><td>Omnidirectional</td><td>50 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=302936">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>144.960219,-37.291456,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Kinglake">
+<name>Kinglake</name>
+<Placemark>
+<name>KINGLAKE</name>
+<snippet>Site ID: 304257</snippet>
+<description><![CDATA[<p>Site ID: 304257<br />
+Site Name: Telstra Site Kinglake Pony Club 76 Whittlesea-Kinglake Road KINGLAKE<br />
+Area Served: Kinglake
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>94.5 MHz</td><td>1 kW</td><td>Mixed</td><td>Omnidirectional</td><td>35 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=304257">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.336533,-37.526811,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Kyogle">
+<name>Kyogle</name>
+<Placemark>
+<name>GENEVA HILL</name>
+<snippet>Site ID: 151381</snippet>
+<description><![CDATA[<p>Site ID: 151381<br />
+Site Name: Broadcast Site GENEVA HILL<br />
+Area Served: Kyogle
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>NEN64</td><td>781.500 MHz</td><td>75 W</td><td>Horizontal</td><td>Directional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151381">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>152.979567,-28.618393,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Lake Cargelligo">
+<name>Lake Cargelligo</name>
+<Placemark>
+<name>MT BOWEN</name>
+<snippet>Site ID: 9914</snippet>
+<description><![CDATA[<p>Site ID: 9914<br />
+Site Name: Dept of Water Resources Site MT BOWEN<br />
+Area Served: Lake Cargelligo
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Temporary Transmission</td><td>8SAT</td><td>101.5 MHz</td><td>5 kW</td><td>Mixed</td><td>Directional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=9914">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>146.215984,-33.365711,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Laramba">
+<name>Laramba</name>
+<Placemark>
+<name>LARAMBA</name>
+<snippet>Site ID: 153132</snippet>
+<description><![CDATA[<p>Site ID: 153132<br />
+Site Name: Broadcast Site LARAMBA<br />
+Area Served: Laramba
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>102.9 MHz</td><td>20 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153132">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>132.754035,-22.533552,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Launceston">
+<name>Launceston</name>
+<Placemark>
+<name>LAUNCESTON</name>
+<snippet>Site ID: 139978</snippet>
+<description><![CDATA[<p>Site ID: 139978<br />
+Site Name: ABC Studios 47 Ann St LAUNCESTON<br />
+Area Served: Launceston
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Test Transmission</td><td>7NT</td><td>102.7 MHz</td><td>200 W</td><td>Mixed</td><td>Omnidirectional</td><td>18 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=139978">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>147.150860,-41.436827,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Laverton">
+<name>Laverton</name>
+<Placemark>
+<name>LAVERTON</name>
+<snippet>Site ID: 29911</snippet>
+<description><![CDATA[<p>Site ID: 29911<br />
+Site Name: Telstra Exchange LAVERTON<br />
+Area Served: Laverton
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>96.5 MHz</td><td>25 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=29911">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>122.401068,-28.624008,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Leonora">
+<name>Leonora</name>
+<Placemark>
+<name>LEONORA</name>
+<snippet>Site ID: 151370</snippet>
+<description><![CDATA[<p>Site ID: 151370<br />
+Site Name: Council Site Lot 240 Hoover St LEONORA<br />
+Area Served: Leonora
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>92.1 MHz</td><td>25 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151370">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>121.334239,-28.881987,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Lord Howe Island">
+<name>Lord Howe Island</name>
+<Placemark>
+<name>LORD HOWE ISLAND</name>
+<snippet>Site ID: 150627</snippet>
+<description><![CDATA[<p>Site ID: 150627<br />
+Site Name: Jetty Building Lagoon Road LORD HOWE ISLAND<br />
+Area Served: Lord Howe Island
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>100.1 MHz</td><td>50 W</td><td>Vertical</td><td>Omnidirectional</td><td>9 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=150627">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>159.059979,-31.524250,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Maclean">
+<name>Maclean</name>
+<Placemark>
+<name>MACLEAN</name>
+<snippet>Site ID: 8129</snippet>
+<description><![CDATA[<p>Site ID: 8129<br />
+Site Name: Pilot Hill Yamba MACLEAN<br />
+Area Served: Maclean
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>100.3 MHz</td><td>1 kW</td><td>Vertical</td><td>Omnidirectional</td><td>16 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=8129">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>153.362963,-29.432965,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Mareeba">
+<name>Mareeba</name>
+<Placemark>
+<name>MAREEBA</name>
+<snippet>Site ID: 138743</snippet>
+<description><![CDATA[<p>Site ID: 138743<br />
+Site Name: 143 Byrnes Street MAREEBA<br />
+Area Served: Mareeba
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>92.3 MHz</td><td>300 W</td><td>Mixed</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138743">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.422859,-16.993875,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Margaret River">
+<name>Margaret River</name>
+<Placemark>
+<name>MARGARET RIVER</name>
+<snippet>Site ID: 26184</snippet>
+<description><![CDATA[<p>Site ID: 26184<br />
+Site Name: SES Lot25 to 26 Le Souef Street MARGARET RIVER<br />
+Area Served: Margaret River
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>SSW41</td><td>620.500 MHz</td><td>250 W</td><td>Vertical</td><td>Directional</td><td>30 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>WOW42</td><td>627.500 MHz</td><td>250 W</td><td>Vertical</td><td>Directional</td><td>30 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>SDW44</td><td>641.500 MHz</td><td>250 W</td><td>Vertical</td><td>Directional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=26184">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>115.076998,-33.950850,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Maryborough (Vic)">
+<name>Maryborough (Vic)</name>
+<Placemark>
+<name>Maryborough</name>
+<snippet>Site ID: 134116</snippet>
+<description><![CDATA[<p>Site ID: 134116<br />
+Site Name: Community FM Radio Site 53 Burns Street Maryborough<br />
+Area Served: Maryborough (Vic)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>99.1 MHz</td><td>250 W</td><td>Vertical</td><td>Omnidirectional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=134116">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>143.741124,-37.049579,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Meander">
+<name>Meander</name>
+<Placemark>
+<name>GARDNERS RIDGE</name>
+<snippet>Site ID: 700438</snippet>
+<description><![CDATA[<p>Site ID: 700438<br />
+Site Name: Ericsson Site GARDNERS RIDGE<br />
+Area Served: Meander
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>96.9 MHz</td><td>500 W</td><td>Mixed</td><td>Omnidirectional</td><td>25 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=700438">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>146.536850,-41.540471,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Melbourne (SE)">
+<name>Melbourne (SE)</name>
+<Placemark>
+<name>Southbank</name>
+<snippet>Site ID: 137923</snippet>
+<description><![CDATA[<p>Site ID: 137923<br />
+Site Name: Eureka Tower Riverside Quay Southbank<br />
+Area Served: Melbourne (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>99.7 MHz</td><td>25 W</td><td>Vertical</td><td>Omnidirectional</td><td>300 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=137923">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>144.964571,-37.821561,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Melbourne City">
+<name>Melbourne City</name>
+<Placemark>
+<name>MELBOURNE</name>
+<snippet>Site ID: 11597</snippet>
+<description><![CDATA[<p>Site ID: 11597<br />
+Site Name: 101 Collins Street MELBOURNE<br />
+Area Served: Melbourne City
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital Radio</td><td>Scientific Assigned</td><td></td><td>202.928 MHz</td><td>400 W</td><td>Vertical</td><td>Omnidirectional</td><td>260 m</td></tr>
+<tr><td>Digital Radio</td><td>Scientific Assigned</td><td></td><td>204.640 MHz</td><td>400 W</td><td>Vertical</td><td>Omnidirectional</td><td>260 m</td></tr>
+<tr><td>Digital Radio</td><td>Scientific Assigned</td><td></td><td>206.352 MHz</td><td>400 W</td><td>Vertical</td><td>Omnidirectional</td><td>260 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=11597">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>144.970602,-37.814923,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Melbourne Cricket Ground (SE)">
+<name>Melbourne Cricket Ground (SE)</name>
+<Placemark>
+<name>EAST MELBOURNE</name>
+<snippet>Site ID: 50201</snippet>
+<description><![CDATA[<p>Site ID: 50201<br />
+Site Name: MCG Jolimont Tce EAST MELBOURNE<br />
+Area Served: Melbourne Cricket Ground (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>61.2 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>62.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=50201">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>144.983482,-37.819605,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Melbourne Rod Laver Arena (SE)">
+<name>Melbourne Rod Laver Arena (SE)</name>
+<Placemark>
+<name>MELBOURNE</name>
+<snippet>Site ID: 153360</snippet>
+<description><![CDATA[<p>Site ID: 153360<br />
+Site Name: Rod Laver Arena Melbourne Park Batman Avenue MELBOURNE<br />
+Area Served: Melbourne Rod Laver Arena (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>99.7 MHz</td><td>2 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153360">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>144.978915,-37.820428,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Menzies">
+<name>Menzies</name>
+<Placemark>
+<name>MENZIES</name>
+<snippet>Site ID: 151350</snippet>
+<description><![CDATA[<p>Site ID: 151350<br />
+Site Name: Broadcast Site Walsh St MENZIES<br />
+Area Served: Menzies
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>99.7 MHz</td><td>25 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151350">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>121.030437,-29.694392,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Merriwa">
+<name>Merriwa</name>
+<Placemark>
+<name>MERRIWA</name>
+<snippet>Site ID: 41049</snippet>
+<description><![CDATA[<p>Site ID: 41049<br />
+Site Name: Broadcast/Police Site Banderra Downs MERRIWA<br />
+Area Served: Merriwa
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>NEN44</td><td>641.500 MHz</td><td>200 W</td><td>Vertical</td><td>Omnidirectional</td><td>38 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>NRN47</td><td>662.500 MHz</td><td>200 W</td><td>Vertical</td><td>Omnidirectional</td><td>38 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=41049">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>150.312958,-32.127308,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Middlemount">
+<name>Middlemount</name>
+<Placemark>
+<name>MIDDLEMOUNT</name>
+<snippet>Site ID: 18915</snippet>
+<description><![CDATA[<p>Site ID: 18915<br />
+Site Name: Broadcast/Comms Site Trig Station MIDDLEMOUNT<br />
+Area Served: Middlemount
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TNQ52</td><td>697.500 MHz</td><td>125 W</td><td>Vertical</td><td>Directional</td><td>15 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>RTQ53</td><td>704.625 MHz</td><td>125 W</td><td>Vertical</td><td>Directional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=18915">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>148.674998,-22.809791,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Mimili">
+<name>Mimili</name>
+<Placemark>
+<name>ALICE SPRINGS</name>
+<snippet>Site ID: 153306</snippet>
+<description><![CDATA[<p>Site ID: 153306<br />
+Site Name: Aboriginal Community Mimili via ALICE SPRINGS<br />
+Area Served: Mimili
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>101.3 MHz</td><td>400 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153306">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>132.702132,-27.004403,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Minnipa">
+<name>Minnipa</name>
+<Placemark>
+<name>MT DAMPER</name>
+<snippet>Site ID: 25169</snippet>
+<description><![CDATA[<p>Site ID: 25169<br />
+Site Name: Telstra site 34 km WSW of Wudinna MT DAMPER<br />
+Area Served: Minnipa
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Temporary Transmission</td><td>8SAT</td><td>106.9 MHz</td><td>2 kW</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=25169">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>135.112891,-33.142395,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Minyerri">
+<name>Minyerri</name>
+<Placemark>
+<name>HODGSON DOWNS</name>
+<snippet>Site ID: 152934</snippet>
+<description><![CDATA[<p>Site ID: 152934<br />
+Site Name: Broadcast Site Office Building Miniyerri Rd HODGSON DOWNS<br />
+Area Served: Minyerri
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>104.9 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152934">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>134.083071,-15.221368,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Mission Beach">
+<name>Mission Beach</name>
+<Placemark>
+<name>DUNK ISLAND</name>
+<snippet>Site ID: 41331</snippet>
+<description><![CDATA[<p>Site ID: 41331<br />
+Site Name: Broadcast Site DUNK ISLAND<br />
+Area Served: Mission Beach
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>STQ53</td><td>704.500 MHz</td><td>1.3 kW</td><td>Vertical</td><td>Directional</td><td>21 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=41331">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>146.144645,-17.935190,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Monto">
+<name>Monto</name>
+<Placemark>
+<name>MULGILDIE PLATEAU</name>
+<snippet>Site ID: 16500</snippet>
+<description><![CDATA[<p>Site ID: 16500<br />
+Site Name: Broadcast Site MULGILDIE PLATEAU<br />
+Area Served: Monto
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TNQ63</td><td>774.500 MHz</td><td>2.5 kW</td><td>Vertical</td><td>Directional</td><td>33 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>RTQ66</td><td>795.625 MHz</td><td>2.5 kW</td><td>Vertical</td><td>Directional</td><td>33 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=16500">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.185913,-24.989531,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Mossman">
+<name>Mossman</name>
+<Placemark>
+<name>NEWELL BEACH</name>
+<snippet>Site ID: 21759</snippet>
+<description><![CDATA[<p>Site ID: 21759<br />
+Site Name: Telstra Radio Terminal NEWELL BEACH<br />
+Area Served: Mossman
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>99.9 MHz</td><td>1 kW</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=21759">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.386011,-16.433660,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Mount Isa">
+<name>Mount Isa</name>
+<Placemark>
+<name>MOUNT ISA</name>
+<snippet>Site ID: 41317</snippet>
+<description><![CDATA[<p>Site ID: 41317<br />
+Site Name: Broadcast/Comm Site Emma Smith Vista MOUNT ISA<br />
+Area Served: Mount Isa
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>ITQ37</td><td>592.500 MHz</td><td>1.6 kW</td><td>Horizontal</td><td>Omnidirectional</td><td>27 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>IMP39</td><td>606.500 MHz</td><td>1.6 kW</td><td>Horizontal</td><td>Omnidirectional</td><td>27 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=41317">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>139.493669,-20.734253,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Mount Liebig">
+<name>Mount Liebig</name>
+<Placemark>
+<name>MT LIEBIG</name>
+<snippet>Site ID: 153133</snippet>
+<description><![CDATA[<p>Site ID: 153133<br />
+Site Name: Broadcast Site MT LIEBIG<br />
+Area Served: Mount Liebig
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>102.5 MHz</td><td>20 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153133">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>131.272106,-23.266062,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Mount Margaret">
+<name>Mount Margaret</name>
+<Placemark>
+<name>MOUNT MARGARET</name>
+<snippet>Site ID: 153203</snippet>
+<description><![CDATA[<p>Site ID: 153203<br />
+Site Name: Broadcast Site Mount Margaret Mission MOUNT MARGARET<br />
+Area Served: Mount Margaret
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.9 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153203">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>122.180578,-28.793111,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Mudgee">
+<name>Mudgee</name>
+<Placemark>
+<name>MUDGEE</name>
+<snippet>Site ID: 138767</snippet>
+<description><![CDATA[<p>Site ID: 138767<br />
+Site Name: Commercial Broadcast Site Endicott Hill (Lower Mount Misery) MUDGEE<br />
+Area Served: Mudgee
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>CTC65</td><td>788.625 MHz</td><td>50 W</td><td>Vertical</td><td>Directional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138767">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>149.564661,-32.610912,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Murgon">
+<name>Murgon</name>
+<Placemark>
+<name>MURGON</name>
+<snippet>Site ID: 16301</snippet>
+<description><![CDATA[<p>Site ID: 16301<br />
+Site Name: Broadcast Site Mt England via MURGON<br />
+Area Served: Murgon
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>RTQ65</td><td>788.500 MHz</td><td>400 W</td><td>Vertical</td><td>Directional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=16301">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.956972,-26.185245,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Murrurundi">
+<name>Murrurundi</name>
+<Placemark>
+<name>MURRURUNDI</name>
+<snippet>Site ID: 6402</snippet>
+<description><![CDATA[<p>Site ID: 6402<br />
+Site Name: NBN Site Mount Helen via MURRURUNDI<br />
+Area Served: Murrurundi
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>NEN44</td><td>641.500 MHz</td><td>400 W</td><td>Horizontal</td><td>Directional</td><td>17 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>NRN46</td><td>655.500 MHz</td><td>400 W</td><td>Horizontal</td><td>Directional</td><td>17 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=6402">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>150.844126,-31.727785,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Murwillumbah - Tweed Heads">
+<name>Murwillumbah - Tweed Heads</name>
+<Placemark>
+<name>TERRANORA</name>
+<snippet>Site ID: 139531</snippet>
+<description><![CDATA[<p>Site ID: 139531<br />
+Site Name: Triple P Nursery 16 Mahers Lane TERRANORA<br />
+Area Served: Murwillumbah - Tweed Heads
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>101.3 MHz</td><td>1 kW</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=139531">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>153.504418,-28.238632,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Mutitjulu">
+<name>Mutitjulu</name>
+<Placemark>
+<name>ULURU</name>
+<snippet>Site ID: 151529</snippet>
+<description><![CDATA[<p>Site ID: 151529<br />
+Site Name: Broadcast Site Mutitjulu Community ULURU<br />
+Area Served: Mutitjulu
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.1 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151529">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>131.071425,-25.351444,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Narrandera">
+<name>Narrandera</name>
+<Placemark>
+<name>NARRANDERA</name>
+<snippet>Site ID: 35613</snippet>
+<description><![CDATA[<p>Site ID: 35613<br />
+Site Name: Quarry Tower NARRANDERA<br />
+Area Served: Narrandera
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>91.1 MHz</td><td>150 W</td><td>Mixed</td><td>Omnidirectional</td><td>35 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=35613">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>146.567487,-34.751451,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Nebo">
+<name>Nebo</name>
+<Placemark>
+<name>NEBO</name>
+<snippet>Site ID: 18733</snippet>
+<description><![CDATA[<p>Site ID: 18733<br />
+Site Name: Telstra Radio Terminal Smiths Hill 6km NNE of NEBO<br />
+Area Served: Nebo
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TNQ60</td><td>753.500 MHz</td><td>50 W</td><td>Horizontal</td><td>Directional</td><td>28 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>RTQ63</td><td>774.500 MHz</td><td>50 W</td><td>Horizontal</td><td>Directional</td><td>28 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=18733">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>148.706465,-21.633610,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Nhulunbuy">
+<name>Nhulunbuy</name>
+<Placemark>
+<name>NHULUNBUY</name>
+<snippet>Site ID: 3100</snippet>
+<description><![CDATA[<p>Site ID: 3100<br />
+Site Name: MF Broadcast Site NHULUNBUY<br />
+Area Served: Nhulunbuy
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Mast Height</th></tr>
+<tr><td>AM Radio</td><td>TCBL</td><td></td><td>1503 kHz</td><td>2 kW</td><td>Vertical</td><td>Directional</td><td>50 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=3100">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>136.793106,-12.189267,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Nturiya">
+<name>Nturiya</name>
+<Placemark>
+<name>NTURIYA</name>
+<snippet>Site ID: 151648</snippet>
+<description><![CDATA[<p>Site ID: 151648<br />
+Site Name: Broadcast Site Ti Tree Station NTURIYA<br />
+Area Served: Nturiya
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>105.9 MHz</td><td>20 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151648">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>133.263845,-22.123650,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Nyirripi">
+<name>Nyirripi</name>
+<Placemark>
+<name>NYIRRIPI</name>
+<snippet>Site ID: 153138</snippet>
+<description><![CDATA[<p>Site ID: 153138<br />
+Site Name: Broadcast Site Aboriginal Community NYIRRIPI<br />
+Area Served: Nyirripi
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>102.9 MHz</td><td>20 W</td><td>Vertical</td><td>Omnidirectional</td><td>12 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153138">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>130.552631,-22.649965,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="One Arm Point">
+<name>One Arm Point</name>
+<Placemark>
+<name>ONE ARM POINT</name>
+<snippet>Site ID: 32237</snippet>
+<description><![CDATA[<p>Site ID: 32237<br />
+Site Name: Broadcast Site ONE ARM POINT<br />
+Area Served: One Arm Point
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>101.5 MHz</td><td>20 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=32237">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>123.060285,-16.445712,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Onslow">
+<name>Onslow</name>
+<Placemark>
+<name>ONSLOW</name>
+<snippet>Site ID: 151665</snippet>
+<description><![CDATA[<p>Site ID: 151665<br />
+Site Name: Broadcast Site Lot 694 Payne Way ONSLOW<br />
+Area Served: Onslow
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>102.7 MHz</td><td>50 W</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151665">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>115.115132,-21.645514,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Palm Island">
+<name>Palm Island</name>
+<Placemark>
+<name>PALM ISLAND</name>
+<snippet>Site ID: 152689</snippet>
+<description><![CDATA[<p>Site ID: 152689<br />
+Site Name: Broadcast Site Main Settlement PALM ISLAND<br />
+Area Served: Palm Island
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>97.3 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152689">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>146.578957,-18.732869,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Paraburdoo">
+<name>Paraburdoo</name>
+<Placemark>
+<name>PARABURDOO</name>
+<snippet>Site ID: 603188</snippet>
+<description><![CDATA[<p>Site ID: 603188<br />
+Site Name: SBS Mast Broadcast Australia Compound Mt Mysery PARABURDOO<br />
+Area Served: Paraburdoo
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>102.9 MHz</td><td>50 W</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=603188">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>117.665468,-23.232653,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Peak Hill">
+<name>Peak Hill</name>
+<Placemark>
+<name>PEAK HILL</name>
+<snippet>Site ID: 11361</snippet>
+<description><![CDATA[<p>Site ID: 11361<br />
+Site Name: Water Reservoir PEAK HILL<br />
+Area Served: Peak Hill
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>89.5 MHz</td><td>50 W</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=11361">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>148.197649,-32.721216,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Peedamulla">
+<name>Peedamulla</name>
+<Placemark>
+<name>Peedamulla</name>
+<snippet>Site ID: 138499</snippet>
+<description><![CDATA[<p>Site ID: 138499<br />
+Site Name: Community Office Peedamulla<br />
+Area Served: Peedamulla
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>101.7 MHz</td><td>25 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138499">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>115.628537,-21.842788,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Perth (SE)">
+<name>Perth (SE)</name>
+<Placemark>
+<name>Perth (SE)</name>
+<snippet>Site ID: 140005</snippet>
+<description><![CDATA[<p>Site ID: 140005<br />
+Site Name: Freshwater Bay Swan River Perth (SE)<br />
+Area Served: Perth (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>88.9 MHz</td><td>5 W</td><td>Vertical</td><td>Omnidirectional</td><td>7 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=140005">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>115.782405,-32.001499,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Pipalyatjara">
+<name>Pipalyatjara</name>
+<Placemark>
+<name>PIPALYATJARA</name>
+<snippet>Site ID: 153309</snippet>
+<description><![CDATA[<p>Site ID: 153309<br />
+Site Name: Pipalyatjara Retransmission Site PIPALYATJARA<br />
+Area Served: Pipalyatjara
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>101.3 MHz</td><td>400 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153309">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>129.188822,-26.160262,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Port Hedland">
+<name>Port Hedland</name>
+<Placemark>
+<name>PORT HEDLAND</name>
+<snippet>Site ID: 44953</snippet>
+<description><![CDATA[<p>Site ID: 44953<br />
+Site Name: Hedland Terminal Nelson Point PORT HEDLAND<br />
+Area Served: Port Hedland
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>101.3 MHz</td><td>1 kW</td><td>Vertical</td><td>Omnidirectional</td><td>45 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=44953">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>118.599909,-20.313811,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Renmark/Loxton">
+<name>Renmark/Loxton</name>
+<Placemark>
+<name>LOXTON</name>
+<snippet>Site ID: 24073</snippet>
+<description><![CDATA[<p>Site ID: 24073<br />
+Site Name: Broadcast Site Bookpurnong Terrace 4 km WSW of LOXTON<br />
+Area Served: Renmark/Loxton
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>100.7 MHz</td><td>5 kW</td><td>Mixed</td><td>Directional</td><td>156 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=24073">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>140.533463,-34.464339,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Roebourne">
+<name>Roebourne</name>
+<Placemark>
+<name>ROEBOURNE</name>
+<snippet>Site ID: 47248</snippet>
+<description><![CDATA[<p>Site ID: 47248<br />
+Site Name: WAWA Site Mt Welcome ROEBOURNE<br />
+Area Served: Roebourne
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>102.9 MHz</td><td>100 W</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=47248">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>117.141110,-20.772531,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Roebourne Five Mile Camp">
+<name>Roebourne Five Mile Camp</name>
+<Placemark>
+<name>5 Mile Camp</name>
+<snippet>Site ID: 138498</snippet>
+<description><![CDATA[<p>Site ID: 138498<br />
+Site Name: Community Office 5 Mile Camp<br />
+Area Served: Roebourne Five Mile Camp
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>103.7 MHz</td><td>5 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138498">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>117.214421,-20.803068,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Seymour">
+<name>Seymour</name>
+<Placemark>
+<name>SEYMOUR</name>
+<snippet>Site ID: 139484</snippet>
+<description><![CDATA[<p>Site ID: 139484<br />
+Site Name: Goulburn Valley Water Treatment Plant Smith Street SEYMOUR<br />
+Area Served: Seymour
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>103.9 MHz</td><td>500 W</td><td>Mixed</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=139484">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.146885,-37.036605,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>SEYMOUR</name>
+<snippet>Site ID: 139523</snippet>
+<description><![CDATA[<p>Site ID: 139523<br />
+Site Name: Broadcast Studio 22 Emily Street SEYMOUR<br />
+Area Served: Seymour
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>103.9 MHz</td><td>200 W</td><td>Mixed</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=139523">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.125391,-37.020530,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="St Helens">
+<name>St Helens</name>
+<Placemark>
+<name>ST HELENS</name>
+<snippet>Site ID: 33506</snippet>
+<description><![CDATA[<p>Site ID: 33506<br />
+Site Name: Broadcast Site North of Airport ST HELENS<br />
+Area Served: St Helens
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TDT46</td><td>655.500 MHz</td><td>250 W</td><td>Vertical</td><td>Directional</td><td>46 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TVT47</td><td>662.500 MHz</td><td>250 W</td><td>Vertical</td><td>Directional</td><td>46 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=33506">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>148.287375,-41.333568,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="St Marys">
+<name>St Marys</name>
+<Placemark>
+<name>SOUTH SISTER</name>
+<snippet>Site ID: 33476</snippet>
+<description><![CDATA[<p>Site ID: 33476<br />
+Site Name: Telstra and NTA Site SOUTH SISTER<br />
+Area Served: St Marys
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TVT63</td><td>774.500 MHz</td><td>2 kW</td><td>Vertical</td><td>Directional</td><td>26 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TDT68</td><td>809.500 MHz</td><td>2 kW</td><td>Vertical</td><td>Directional</td><td>26 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=33476">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>148.171818,-41.534100,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Stuart">
+<name>Stuart</name>
+<Placemark>
+<name>STUART</name>
+<snippet>Site ID: 151724</snippet>
+<description><![CDATA[<p>Site ID: 151724<br />
+Site Name: Broadcast Site Partington Railway Yard STUART<br />
+Area Served: Stuart
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TNQ60</td><td>753.500 MHz</td><td>50 W</td><td>Horizontal</td><td>Directional</td><td>35 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>RTQ63</td><td>774.500 MHz</td><td>50 W</td><td>Horizontal</td><td>Directional</td><td>35 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151724">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>146.847811,-19.347792,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Sydney (SE)">
+<name>Sydney (SE)</name>
+<Placemark>
+<name>HURSTVILLE</name>
+<snippet>Site ID: 5403</snippet>
+<description><![CDATA[<p>Site ID: 5403<br />
+Site Name: 43 Bridge St HURSTVILLE<br />
+Area Served: Sydney (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>90.9 MHz</td><td>200 W</td><td>Vertical</td><td>Omnidirectional</td><td>50 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=5403">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.093955,-33.964253,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Sydney Cricket Ground (SE)">
+<name>Sydney Cricket Ground (SE)</name>
+<Placemark>
+<name>MOORE PARK</name>
+<snippet>Site ID: 3708</snippet>
+<description><![CDATA[<p>Site ID: 3708<br />
+Site Name: Sydney Cricket Ground MOORE PARK<br />
+Area Served: Sydney Cricket Ground (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>61.2 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>62.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=3708">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.223905,-33.892082,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Sydney Olympic Park (SE)">
+<name>Sydney Olympic Park (SE)</name>
+<Placemark>
+<name>HOMEBUSH</name>
+<snippet>Site ID: 9001831</snippet>
+<description><![CDATA[<p>Site ID: 9001831<br />
+Site Name: Novatel Ibis Olympic Hotel Cnr Olympic Boulevard &amp; Herb Elliott Avenue HOMEBUSH<br />
+Area Served: Sydney Olympic Park (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>107.9 MHz</td><td>25 W</td><td>Vertical</td><td>Omnidirectional</td><td>64 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=9001831">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.067215,-33.847786,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Taree">
+<name>Taree</name>
+<Placemark>
+<name>UPPER LANSDOWNE</name>
+<snippet>Site ID: 153072</snippet>
+<description><![CDATA[<p>Site ID: 153072<br />
+Site Name: Broadcast Site Marsh State Forest via UPPER LANSDOWNE<br />
+Area Served: Taree
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.5 MHz</td><td>3 kW</td><td>Mixed</td><td>Omnidirectional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153072">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>152.417614,-31.688080,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Temora">
+<name>Temora</name>
+<Placemark>
+<name>Temora</name>
+<snippet>Site ID: 138568</snippet>
+<description><![CDATA[<p>Site ID: 138568<br />
+Site Name: Grand Hotel Cnr Loftus and Crowley Street Temora<br />
+Area Served: Temora
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>102.5 MHz</td><td>100 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138568">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>147.531108,-34.447230,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Tenterfield">
+<name>Tenterfield</name>
+<Placemark>
+<name>MT MACKENZIE</name>
+<snippet>Site ID: 41058</snippet>
+<description><![CDATA[<p>Site ID: 41058<br />
+Site Name: Broadcast Site 7 km SW of Tenterfield MT MACKENZIE<br />
+Area Served: Tenterfield
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>NEN64</td><td>781.500 MHz</td><td>250 W</td><td>Horizontal</td><td>Omnidirectional</td><td>53 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=41058">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.966519,-29.086363,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Texas">
+<name>Texas</name>
+<Placemark>
+<name>TEXAS</name>
+<snippet>Site ID: 40741</snippet>
+<description><![CDATA[<p>Site ID: 40741<br />
+Site Name: Broadcast Australia Site 3 km NE of TEXAS<br />
+Area Served: Texas
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TNQ62</td><td>767.625 MHz</td><td>25 W</td><td>Horizontal</td><td>Directional</td><td>20 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>RTQ65</td><td>788.625 MHz</td><td>25 W</td><td>Horizontal</td><td>Directional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=40741">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.204647,-28.842677,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Tiaro">
+<name>Tiaro</name>
+<Placemark>
+<name>TIARO</name>
+<snippet>Site ID: 461038</snippet>
+<description><![CDATA[<p>Site ID: 461038<br />
+Site Name: Water Tower Forgan Terrace TIARO<br />
+Area Served: Tiaro
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.1 MHz</td><td>50 W</td><td>Mixed</td><td>Omnidirectional</td><td>35 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=461038">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>152.582138,-25.727698,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Tieri">
+<name>Tieri</name>
+<Placemark>
+<name>TIERI</name>
+<snippet>Site ID: 17681</snippet>
+<description><![CDATA[<p>Site ID: 17681<br />
+Site Name: Television Site Talagai Ave TIERI<br />
+Area Served: Tieri
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TNQ60</td><td>753.625 MHz</td><td>50 W</td><td>Horizontal</td><td>Directional</td><td>45 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=17681">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>148.343308,-23.027048,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Titjikala">
+<name>Titjikala</name>
+<Placemark>
+<name>TITJIKALA</name>
+<snippet>Site ID: 152935</snippet>
+<description><![CDATA[<p>Site ID: 152935<br />
+Site Name: Broadcast Site Main St Lot 52 TITJIKALA<br />
+Area Served: Titjikala
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.1 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152935">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>134.067776,-24.657027,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Tjirrkarli">
+<name>Tjirrkarli</name>
+<Placemark>
+<name>TJIRRKARLI</name>
+<snippet>Site ID: 151511</snippet>
+<description><![CDATA[<p>Site ID: 151511<br />
+Site Name: Broadcast Site TJIRRKARLI<br />
+Area Served: Tjirrkarli
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151511">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>125.467940,-25.999329,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Tjuntjunjara">
+<name>Tjuntjunjara</name>
+<Placemark>
+<name>TJUNTJUNJARA</name>
+<snippet>Site ID: 152423</snippet>
+<description><![CDATA[<p>Site ID: 152423<br />
+Site Name: Broadcast Site TJUNTJUNJARA<br />
+Area Served: Tjuntjunjara
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152423">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>127.117658,-29.331955,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Tom Price">
+<name>Tom Price</name>
+<Placemark>
+<name>TOM PRICE</name>
+<snippet>Site ID: 40637</snippet>
+<description><![CDATA[<p>Site ID: 40637<br />
+Site Name: Mt Nameless TOM PRICE<br />
+Area Served: Tom Price
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.5 MHz</td><td>100 W</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=40637">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>117.761300,-22.719877,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Toodyay">
+<name>Toodyay</name>
+<Placemark>
+<name>TOODYAY</name>
+<snippet>Site ID: 502134</snippet>
+<description><![CDATA[<p>Site ID: 502134<br />
+Site Name: Television Translator Mast Water Tank Hill TOODYAY<br />
+Area Served: Toodyay
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>105.3 MHz</td><td>1 kW</td><td>Mixed</td><td>Omnidirectional</td><td>40 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=502134">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>116.470118,-31.560358,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Tully">
+<name>Tully</name>
+<Placemark>
+<name>TULLY QLD</name>
+<snippet>Site ID: 139688</snippet>
+<description><![CDATA[<p>Site ID: 139688<br />
+Site Name: Tully Electronics 62 Butler St TULLY QLD<br />
+Area Served: Tully
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Temporary Transmission</td><td>4KZ</td><td>90.3 MHz</td><td>100 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=139688">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.927480,-17.931869,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Umuwa">
+<name>Umuwa</name>
+<Placemark>
+<name>UMUWA</name>
+<snippet>Site ID: 151484</snippet>
+<description><![CDATA[<p>Site ID: 151484<br />
+Site Name: Broadcast Site Anangu Pitjantjatjara Office UMUWA<br />
+Area Served: Umuwa
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>101.3 MHz</td><td>400 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151484">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>132.040599,-26.465471,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="WACA Ground (SE)">
+<name>WACA Ground (SE)</name>
+<Placemark>
+<name>EAST PERTH</name>
+<snippet>Site ID: 601225</snippet>
+<description><![CDATA[<p>Site ID: 601225<br />
+Site Name: WACA Cricket Ground Nelson Crescent EAST PERTH<br />
+Area Served: WACA Ground (SE)
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>61.2 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+<tr><td>FM Radio</td><td>Special Event</td><td></td><td>62.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=601225">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>115.879240,-31.960036,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Wakathuni">
+<name>Wakathuni</name>
+<Placemark>
+<name>WAKATHUNI</name>
+<snippet>Site ID: 152650</snippet>
+<description><![CDATA[<p>Site ID: 152650<br />
+Site Name: Broadcast Site WAKATHUNI<br />
+Area Served: Wakathuni
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>104.9 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152650">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>117.833235,-22.866677,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Walcha">
+<name>Walcha</name>
+<Placemark>
+<name>WALCHA</name>
+<snippet>Site ID: 151299</snippet>
+<description><![CDATA[<p>Site ID: 151299<br />
+Site Name: Broadcast Site 1km SW of WALCHA<br />
+Area Served: Walcha
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>NEN59</td><td>746.500 MHz</td><td>500 W</td><td>Horizontal</td><td>Directional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151299">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>151.584213,-30.988704,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Wallace Rockhole">
+<name>Wallace Rockhole</name>
+<Placemark>
+<name>Wallace Rockhole</name>
+<snippet>Site ID: 138558</snippet>
+<description><![CDATA[<p>Site ID: 138558<br />
+Site Name: Macdonnel Shire Office Wallace Rockhole<br />
+Area Served: Wallace Rockhole
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>103.3 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138558">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>133.087175,-24.124932,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Wanarn">
+<name>Wanarn</name>
+<Placemark>
+<name>WANARN</name>
+<snippet>Site ID: 152425</snippet>
+<description><![CDATA[<p>Site ID: 152425<br />
+Site Name: Broadcast Site WANARN<br />
+Area Served: Wanarn
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.7 MHz</td><td>20 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152425">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>127.542029,-25.283854,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Warakurna">
+<name>Warakurna</name>
+<Placemark>
+<name>WARAKURNA</name>
+<snippet>Site ID: 31748</snippet>
+<description><![CDATA[<p>Site ID: 31748<br />
+Site Name: Broadcast Site WARAKURNA<br />
+Area Served: Warakurna
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.5 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=31748">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>128.288919,-25.001363,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Warburton">
+<name>Warburton</name>
+<Placemark>
+<name>WARBURTON</name>
+<snippet>Site ID: 151506</snippet>
+<description><![CDATA[<p>Site ID: 151506<br />
+Site Name: Broadcast Site adjacent to Community Office WARBURTON<br />
+Area Served: Warburton
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>107.7 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151506">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>126.579133,-26.135373,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Weipa">
+<name>Weipa</name>
+<Placemark>
+<name>NAPRANUM</name>
+<snippet>Site ID: 152872</snippet>
+<description><![CDATA[<p>Site ID: 152872<br />
+Site Name: Broadcast Site Napranum Community NAPRANUM<br />
+Area Served: Weipa
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>94.5 MHz</td><td>600 W</td><td>Mixed</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152872">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>141.889137,-12.684351,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="West Wyalong">
+<name>West Wyalong</name>
+<Placemark>
+<name>Wyalong</name>
+<snippet>Site ID: 138586</snippet>
+<description><![CDATA[<p>Site ID: 138586<br />
+Site Name: Spy Hill Wyalong<br />
+Area Served: West Wyalong
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>94.5 MHz</td><td>100 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=138586">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>147.249005,-33.913254,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Wilcannia">
+<name>Wilcannia</name>
+<Placemark>
+<name>WILCANNIA</name>
+<snippet>Site ID: 137625</snippet>
+<description><![CDATA[<p>Site ID: 137625<br />
+Site Name: CDEP Bdlg 39 Reid St WILCANNIA<br />
+Area Served: Wilcannia
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>103.1 MHz</td><td>50 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=137625">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>143.379134,-31.558727,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Willowra">
+<name>Willowra</name>
+<Placemark>
+<name>WILLOWRA</name>
+<snippet>Site ID: 151670</snippet>
+<description><![CDATA[<p>Site ID: 151670<br />
+Site Name: Broadcast Site Mt Barkly WILLOWRA<br />
+Area Served: Willowra
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>106.1 MHz</td><td>20 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=151670">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>132.617139,-21.246468,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Willunga">
+<name>Willunga</name>
+<Placemark>
+<name>MCLAREN VALE</name>
+<snippet>Site ID: 139075</snippet>
+<description><![CDATA[<p>Site ID: 139075<br />
+Site Name: Broadcast Site Lot 4 Chapel Hill Road MCLAREN VALE<br />
+Area Served: Willunga
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>91.1 MHz</td><td>250 W</td><td>Vertical</td><td>Omnidirectional</td><td>15 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=139075">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>138.562075,-35.167775,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Wilora">
+<name>Wilora</name>
+<Placemark>
+<name>WILORA</name>
+<snippet>Site ID: 134057</snippet>
+<description><![CDATA[<p>Site ID: 134057<br />
+Site Name: Broadcast Site WILORA<br />
+Area Served: Wilora
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>100.9 MHz</td><td>20 W</td><td>Vertical</td><td>Omnidirectional</td><td>10 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=134057">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>133.729880,-21.741049,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Wodonga">
+<name>Wodonga</name>
+<Placemark>
+<name>WODONGA</name>
+<snippet>Site ID: 152770</snippet>
+<description><![CDATA[<p>Site ID: 152770<br />
+Site Name: Broadcast Site Carrols Lane West WODONGA<br />
+Area Served: Wodonga
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>98.5 MHz</td><td>200 W</td><td>Mixed</td><td>Directional</td><td>30 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152770">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>146.871293,-36.091597,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Wynyard">
+<name>Wynyard</name>
+<Placemark>
+<name>TABLE CAPE</name>
+<snippet>Site ID: 34320</snippet>
+<description><![CDATA[<p>Site ID: 34320<br />
+Site Name: Broadcast/Comms Site TABLE CAPE<br />
+Area Served: Wynyard
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TVT35</td><td>578.500 MHz</td><td>2.5 kW</td><td>Vertical</td><td>Directional</td><td>30 m</td></tr>
+<tr><td>Digital TV</td><td>Test Transmission</td><td>TDT36</td><td>585.500 MHz</td><td>2.5 kW</td><td>Vertical</td><td>Directional</td><td>41 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=34320">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>145.722540,-40.954218,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Yarralin">
+<name>Yarralin</name>
+<Placemark>
+<name>YARRALIN</name>
+<snippet>Site ID: 153290</snippet>
+<description><![CDATA[<p>Site ID: 153290<br />
+Site Name: Broadcast Site YARRALIN<br />
+Area Served: Yarralin
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>96.9 MHz</td><td>30 W</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153290">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>130.885247,-16.447149,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Yathalamarra">
+<name>Yathalamarra</name>
+<Placemark>
+<name>RAMINGINING</name>
+<snippet>Site ID: 153547</snippet>
+<description><![CDATA[<p>Site ID: 153547<br />
+Site Name: Broadcast Site Yathalamarra 5 km SW of RAMINGINING<br />
+Area Served: Yathalamarra
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Mast Height</th></tr>
+<tr><td>AM Radio</td><td>TCBL</td><td></td><td>1593 kHz</td><td>400 W</td><td>Vertical</td><td>Omnidirectional</td><td>50 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=153547">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>134.901175,-12.356881,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Young">
+<name>Young</name>
+<Placemark>
+<name>YOUNG</name>
+<snippet>Site ID: 9561</snippet>
+<description><![CDATA[<p>Site ID: 9561<br />
+Site Name: Broadcast Site Reservoir Hill YOUNG<br />
+Area Served: Young
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>92.3 MHz</td><td>500 W</td><td>Mixed</td><td>Omnidirectional</td><td>26 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=9561">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>148.306604,-34.298868,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder id="Youngaleena">
+<name>Youngaleena</name>
+<Placemark>
+<name>YOUNGALEENA</name>
+<snippet>Site ID: 152775</snippet>
+<description><![CDATA[<p>Site ID: 152775<br />
+Site Name: Broadcast Site Mungina Witternoom Rd YOUNGALEENA<br />
+Area Served: Youngaleena
+</p>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>%(HeightLabel)s</th></tr>
+<table cellpadding="5" frame="box" rules="all" style="white-space:nowrap;">
+<tr align="left"><th>Mode</th><th>Purpose</th><th>Callsign</th><th>Frequency</th><th>Power</th><th>Polarisation</th><th>Antenna Pattern</th><th>Antenna Height</th></tr>
+<tr><td>FM Radio</td><td>TCBL</td><td></td><td>102.1 MHz</td><td>10 W</td><td>Vertical</td><td>Omnidirectional</td><td>20 m</td></tr>
+</table>
+<p><a href="http://web.acma.gov.au/pls/radcom/site_search.site_lookup?pSITE_ID=152775">Site details</a></p>
+]]></description>
+<styleUrl>#sn_tx</styleUrl>
+<Point><coordinates>118.526339,-22.296993,0</coordinates></Point>
+</Placemark>
+</Folder>
+</Document></kml>
