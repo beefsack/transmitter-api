@@ -17,5 +17,6 @@ get '/hunt' do
   @transmitter_data =
     TransmitterHunter::TransmitterData.new
   stations = @transmitter_data.find params[:lat].to_f, params[:long].to_f
+  puts YAML::dump(stations)
   haml :hunt
 end

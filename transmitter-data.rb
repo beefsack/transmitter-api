@@ -16,11 +16,13 @@ module TransmitterHunter
     end
 
     def find lat, long
+      stations = []
       each do |transmitter|
-        transmitter.each do |station|
-          puts station.callsign
+        transmitter.stations_for_coordinates(lat, long).each do |station|
+          stations << station
         end
       end
+      return stations
     end
 
     private

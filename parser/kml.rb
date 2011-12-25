@@ -13,8 +13,8 @@ module TransmitterHunter
           item[:name] = place.search('name').first.content
           coords_str = place.search('Point coordinates').first.content
           coords = coords_str.split ','
-          item[:lat] = coords[0].to_f
-          item[:long] = coords[1].to_f
+          item[:long] = coords[0].to_f
+          item[:lat] = coords[1].to_f
           item[:stations] = []
           description_text = place.search('description').first.content
           description = Nokogiri::HTML description_text
