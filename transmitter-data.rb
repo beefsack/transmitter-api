@@ -45,6 +45,7 @@ module TransmitterHunter
               data_dir + '/' + file['filename'])
           end
           parsed.each do |data|
+            data[:type] = file['type']
             raw_data << data
           end
         end

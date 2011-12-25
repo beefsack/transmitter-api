@@ -16,5 +16,15 @@ get '/hunt' do
   @transmitter_data =
     TransmitterHunter::TransmitterData.new
   stations = @transmitter_data.find params[:lat].to_f, params[:long].to_f
-  haml :hunt, :locals => { :stations => stations }
+  stations.sort! do |a, b|
+    b[:strength] <=> a[:strength]
+  end
+  # Sort by strength
+  # Break down by type
+  types = {}
+  stations.each do |station|
+    types[station[:type]] = [] if types[station[:type]].nil?
+    types[station[:type]] << station
+  end
+  haml :hunt, :locals => { :types => types }
 end

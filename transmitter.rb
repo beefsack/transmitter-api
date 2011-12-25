@@ -7,7 +7,7 @@ module TransmitterHunter
     extend Forwardable
     include Enumerable
     def_delegators :@stations, :each, :<<
-    attr_accessor :name, :lat, :long, :stations
+    attr_accessor :name, :lat, :long, :type, :stations
     
     def initialize options = {}
       @stations = []
@@ -32,8 +32,9 @@ module TransmitterHunter
       stations = []
       @stations.each do |station|
         stations << {
-          :strength => 100,
+          :strength => rand(100),
           :station => station,
+          :type => @type,
         }
       end
       return stations

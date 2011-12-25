@@ -1,7 +1,10 @@
 %h2 Hunted the following stations:
-%table
-  - stations.each do |station|
+- types.each_pair do |type, stations|
+  %table
     %tr
-      %td= station[:station].callsign
-      %td= station[:station].frequency
-      %td= station[:strength]
+      %th{ :colspan => '3' }= type
+    - stations.each do |station|
+      %tr
+        %td= station[:station].callsign
+        %td= station[:station].frequency
+        %td= station[:strength]
