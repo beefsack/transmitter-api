@@ -1,1 +1,7 @@
-%h1 HUNTING!
+%h2 Hunted the following stations:
+%table
+  - stations.each do |station|
+    %tr
+      %td= station[:station].callsign
+      %td= station[:station].frequency
+      %td= station[:strength]
