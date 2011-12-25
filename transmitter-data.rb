@@ -2,13 +2,25 @@ require 'transmitter'
 require 'parser/kml'
 require 'yaml'
 require 'dalli'
+require 'forwardable'
 
 module TransmitterHunter
   class TransmitterData
+    extend Forwardable
+    include Enumerable
+    def_delegators :@transmitters, :each, :<<
     attr_reader :files, :transmitters
 
     def initialize
       load
+    end
+
+    def find lat, long
+      each do |transmitter|
+        transmitter.each do |station|
+          puts station.callsign
+        end
+      end
     end
 
     private

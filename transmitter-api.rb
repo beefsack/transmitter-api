@@ -16,5 +16,6 @@ end
 get '/hunt' do
   @transmitter_data =
     TransmitterHunter::TransmitterData.new
+  stations = @transmitter_data.find params[:lat].to_f, params[:long].to_f
   haml :hunt
 end
